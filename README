@@ -1,0 +1,21 @@
+# (Java)MOP Mode #
+
+This defines a _very_ basic mode for JavaMOP files.
+
+This mode is largely based on the [tutorial][2] by [Xah Lee][3].
+
+## License ##
+
+This [Emacs][0] mode is released, AS-IS WITHOUT WARANTY, expressed or implied,
+as free software under the terms and conditions of the GNU General Public
+License version 3.  A copy of the license should have been distributed with the
+copy of this software.  However, it is also possible to read the [license][1]
+online.
+
+[0]: https://www.gnu.org/software/emacs/
+
+[1]: https://www.gnu.org/licenses/gpl-3.0.html
+
+[2]: http://ergoemacs.org/emacs/elisp_syntax_coloring.html
+
+[3]: http://ergoemacs.org/index.html
